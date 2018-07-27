@@ -1,0 +1,13 @@
+<view class="container">
+  <view class="section design_card">
+    <image class="design_image" src=""/>
+    <image class="designer_image" src=""/>
+    <text class="design_name">舒然</text>
+    <text class="design_location">北京.美罗小区</text>
+    <view class="design_static">
+    <text class="thumb">点赞</text>
+    <text class="heart">比心</text>
+    <text class="viewers">浏览人数</text>
+    </view>
+  </view>
+</view>
